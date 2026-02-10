@@ -4,7 +4,6 @@
 Researchers and analysts often fail not due to lack of time, but because they **cannot read and process all research papers, news articles, and documents efficiently**.  
 This AI-powered tool uses **RAG (Retrieval-Augmented Generation)** to make research effortless. Users can **input article URLs or upload documents** and ask questions to instantly retrieve relevant insights. Initially focused on the **real estate domain**, it can be extended to any field.
 
-![product screenshot](resources/image.png)
 
 ---
 
@@ -25,8 +24,5 @@ This AI-powered tool uses **RAG (Retrieval-Augmented Generation)** to make resea
 - Ask questions in natural language.
 - Answers are **relevant, contextual, and include sources** for validation.
 
----
-
-## Set-Up
 
 
