@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](banner1.png)
 # RAG-Based-Researcher-Research-Analyst
 🏙️ **Researcher Research Assistant**
 
