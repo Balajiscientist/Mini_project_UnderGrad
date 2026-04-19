@@ -8,7 +8,7 @@ This AI-powered tool uses **RAG (Retrieval-Augmented Generation)** to make resea
 ## Background of the Problem
 ![Banner](ima.png)
 
-- During **B. Balaji's** 3-month internship as a **Research Ambassador**, I observed key challenges faced by researchers.
+- During **B. Balaji's** 3-month internship as a **Research Ambassador**, we observed key challenges faced by researchers.
 - Researchers struggle not due to lack of effort, but because of the **overwhelming volume of information**.
 - Research papers, articles, and domain-specific documents are growing rapidly.
 - It becomes difficult to **read, analyze, and extract meaningful insights** within limited time.
