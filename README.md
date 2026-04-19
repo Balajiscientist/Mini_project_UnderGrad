@@ -25,5 +25,31 @@ This AI-powered tool uses **RAG (Retrieval-Augmented Generation)** to make resea
 - Ask questions in natural language.
 - Answers are **relevant, contextual, and include sources** for validation.
 
+### Set-up
 
+1. Run the following command to install all dependencies. 
 
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+2. Create a .env file with your GROQ credentials as follows:
+    ```text
+    GROQ_MODEL=MODEL_NAME_HERE
+    GROQ_API_KEY=GROQ_API_KEY_HERE
+    ```
+
+3. Run the streamlit app by running the following command.
+
+    ```bash
+    streamlit run main.py
+    ```
+
+##  Team Contributions & Roles
+
+| Name | Role | Key Contributions |
+|------|------|------------------|
+| **B. Balaji** | GenAI & Full Stack Developer | • Designed overall system architecture (RAG pipeline)<br>• Integrated frontend (Streamlit) & backend (FastAPI)<br>• Implemented LLM (Llama3 via Groq) and API workflows |
+| **K. Surya Akhil Varma** | Backend & Data Engineer | • Built REST APIs using FastAPI<br>• Managed document processing & data pipelines<br>• Handled database (ChromaDB / MySQL) and embeddings |
+| **K. Yuva Sankar** | Frontend & UI Developer | • Developed interactive UI using Streamlit<br>• Implemented user workflows (URL input, file upload, Q&A)<br>• Improved usability and responsiveness |
+| **Navya Sree** | UI/UX Designer & Research Analyst | • Designed Figma prototypes and wireframes<br>• Created user journey and layout planning<br>• Conducted research on user needs & optimized UX |
