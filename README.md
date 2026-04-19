@@ -1,12 +1,32 @@
 ![Banner](banner1.png)
-# RAG-Based-Researcher-Research-Analyst
-🏙️ **Researcher Research Assistant**
+ **Researcher Research Assistant**
 
 Researchers and analysts often fail not due to lack of time, but because they **cannot read and process all research papers, news articles, and documents efficiently**.  
 This AI-powered tool uses **RAG (Retrieval-Augmented Generation)** to make research effortless. Users can **input article URLs or upload documents** and ask questions to instantly retrieve relevant insights. Initially focused on the **real estate domain**, it can be extended to any field.
 
 
 ---
+## Background of the Problem
+
+- During my 3-month internship as a **Research Ambassador**, I observed key challenges faced by researchers.
+- Researchers struggle not due to lack of effort, but because of the **overwhelming volume of information**.
+- Research papers, articles, and domain-specific documents are growing rapidly.
+- It becomes difficult to **read, analyze, and extract meaningful insights** within limited time.
+
+- A major issue is **information overload**, leading to:
+  - Missed important insights  
+  - Delayed decision-making  
+
+- Existing AI tools often:
+  - Generate **hallucinated (unreliable) answers**  
+  - Reduce trust in automated research systems  
+
+- To solve this, I developed a **no-hallucination AI-powered research platform** using **RAG (Retrieval-Augmented Generation)**.
+
+- The system:
+  - Uses **real user-provided data (URLs & documents)**  
+  - Ensures **accurate, relevant, and verifiable responses**  
+  - Helps researchers **save time and improve efficiency**
 
 ## Features
 
