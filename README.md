@@ -5,45 +5,33 @@ Researchers and analysts often fail not due to lack of time, but because they **
 This AI-powered tool uses **RAG (Retrieval-Augmented Generation)** to make research effortless. Users can **input article URLs or upload documents** and ask questions to instantly retrieve relevant insights. Initially focused on the **real estate domain**, it can be extended to any field.
 
 
----
 ## Background of the Problem
+![Banner](ima.png)
 
-- During my 3-month internship as a **Research Ambassador**, I observed key challenges faced by researchers.
+- During **B. Balaji** 3-month internship as a **Research Ambassador**, I observed key challenges faced by researchers.
 - Researchers struggle not due to lack of effort, but because of the **overwhelming volume of information**.
 - Research papers, articles, and domain-specific documents are growing rapidly.
 - It becomes difficult to **read, analyze, and extract meaningful insights** within limited time.
-
 - A major issue is **information overload**, leading to:
   - Missed important insights  
   - Delayed decision-making  
-
 - Existing AI tools often:
   - Generate **hallucinated (unreliable) answers**  
   - Reduce trust in automated research systems  
-
-- To solve this, I developed a **no-hallucination AI-powered research platform** using **RAG (Retrieval-Augmented Generation)**.
-
+- To solve this, **We** developed a **no-hallucination AI-powered research platform** using **RAG (Retrieval-Augmented Generation)**.
 - The system:
   - Uses **real user-provided data (URLs & documents)**  
   - Ensures **accurate, relevant, and verifiable responses**  
   - Helps researchers **save time and improve efficiency**
+##  Features
 
-## Features
-
-### 🔹 URL-Based Research
-- Load multiple article URLs.
-- Extract content using **LangChain's UnstructuredURL Loader**.
-- Split text, generate embeddings using **HuggingFace**, and store in **ChromaDB**.
-- Ask questions via **Llama3 (Groq)** and receive answers with source URLs.
-
-### 🔹 Document & File Upload Research
-- Upload **PDFs, DOCX, TXT, CSV, and images**.
-- Automatic text extraction and semantic indexing.
-- Ask questions across your **private research repository**.
-
-### 🔹 Smart AI Q&A
-- Ask questions in natural language.
-- Answers are **relevant, contextual, and include sources** for validation.
+-  **URL-Based Research** – Extract, process, and query insights from multiple web articles  
+- **Document Intelligence** – Upload PDFs, DOCX, CSV, and images for semantic search  
+- **Smart AI Q&A** – Get accurate, context-aware answers with source references  
+- **RAG Architecture** – Reduces hallucinations using retrieval-based responses  
+- **Domain Extensible** – Works for real estate and adaptable to other domains  
+-  **Fast & Scalable** – Efficient retrieval using vector databases (ChromaDB)  
+-  **Source Transparency** – Answers backed by verifiable data  
 
 ### Set-up
 
