@@ -23,6 +23,10 @@ This AI-powered tool uses **RAG (Retrieval-Augmented Generation)** to make resea
   - Uses **real user-provided data (URLs & documents)**  
   - Ensures **accurate, relevant, and verifiable responses**  
   - Helps researchers **save time and improve efficiency**
+ 
+##  Design Prototype & Demo
+
+**Preview the Interface:** [Click to View Figma Prototype](YOUR_FIGMA_LINK_HERE)
 ##  Features
 
 -  **URL-Based Research** – Extract, process, and query insights from multiple web articles  
