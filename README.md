@@ -26,7 +26,7 @@ This AI-powered tool uses **RAG (Retrieval-Augmented Generation)** to make resea
  
 ##  Design Prototype & Demo
 
-**Preview the Interface:** [Click to View Figma Prototype](YOUR_FIGMA_LINK_HERE)
+**Preview the Interface:** [Click to View Figma Prototype](https://www.figma.com/design/HRj15NAtfudeKRGk4kTYUE/Untitled?node-id=0-1&t=8Z1ACNodrYPIkFnV-1)
 ##  Features
 
 -  **URL-Based Research** – Extract, process, and query insights from multiple web articles  
